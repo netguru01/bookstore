@@ -7,6 +7,7 @@ gem 'mysql2'
 gem 'therubyracer'
 gem 'libv8'
 gem 'execjs'
+gem 'pg'
 # Use sqlite3 as the database for Active Record
 # gem 'sqlite3'
 # Use Puma as the app server
